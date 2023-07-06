@@ -1,6 +1,6 @@
 # SmeltableGunpowder
 
-Does exactly what you think.
+Does exactly what you think. Scales with number of gunpowder in furnace. (1 gunpowder = 1 explosion power)
 
 ### Credit
 
