@@ -1,0 +1,7 @@
+name: SmeltableGunpowder
+version: '${project.version}'
+main: me.redepicness.smeltablegunpowder.SmeltableGunpowder
+api-version: '1.20'
+authors: [Red_Epicness]
+description: Makes gunpowder smeltable...
+website: https://github.com/RedEpicness/SmeltableGunpowder
